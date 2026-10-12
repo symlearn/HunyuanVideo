@@ -12,4 +12,4 @@ loguru==0.7.2
 imageio==2.34.0
 imageio-ffmpeg==0.5.1
 safetensors==0.4.3
-gradio==5.0.0
+gradio==6.16.0
